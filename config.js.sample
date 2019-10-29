@@ -1,0 +1,7 @@
+var api = 'https://explorer.conceal.network/daemon';
+var poolListUrl = 'https://explorer.conceal.network/services/pools/list';
+var donationAddress = "";
+var blockTargetInterval = 120;
+var coinUnits = 1000000;
+var symbol = 'CCX';
+var refreshDelay = 5000;
